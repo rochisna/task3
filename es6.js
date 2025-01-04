@@ -8,3 +8,6 @@ var c = 30;
 console.log(c);
 c = 20;
 console.log(c);
+
+console.log(c);
+//rochisna
